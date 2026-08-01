@@ -4,7 +4,7 @@
 <head>
 
     <meta charset="UTF-8">
-    <title>Nuevo movimiento</title>
+    <title>Finanzas Flia. Gonzalez Megna</title>
 
     <script src="https://cdn.tailwindcss.com"></script>
 

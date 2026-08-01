@@ -5,7 +5,7 @@
 
     <meta charset="UTF-8">
 
-    <title>Mi Billetera</title>
+    <title>Finanzas Flia. Gonzalez Megna</title>
 
     <script src="https://cdn.tailwindcss.com"></script>
 
@@ -16,11 +16,11 @@
 <div class="max-w-6xl mx-auto py-10">
 
     <h1 class="text-4xl font-bold">
-        💰 Mi Billetera
+        💰 Finanzas Flia. Gonzalez Megna
     </h1>
 
     <p class="text-gray-500 mt-2">
-        Finanzas personales
+        Versión 1.0.0.
     </p>
 
     {{-- Saldo disponible --}}
